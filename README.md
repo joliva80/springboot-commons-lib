@@ -14,6 +14,7 @@ The following guides illustrate how to use some features concretely:
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
 ## HOW TO US THIS PROJECT
+* 0. delete all plug-ins from pom.xml file
 * 1. compile the JAR -> ./mvnw install
 * 2. verify the JAR -> ls ./target/springboot-commons-lib-0.0.1-SNAPSHOT.jar
 * 3. update any local project entity import for the commons-lib import package
